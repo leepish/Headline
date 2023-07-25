@@ -21,6 +21,9 @@
             </header>
 
             <section class="gh-content gh-canvas">
+                {{#has tag="#affiliate"}}
+                {{> "affiliate"}}
+                {{/has}}
                 {{content}}
             </section>
 
