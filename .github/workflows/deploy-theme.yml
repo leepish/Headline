@@ -1,4 +1,4 @@
-- name: Deploy Ghost Theme
+name: Deploy Ghost Theme
   # You may pin to the exact commit or the version.
   # uses: TryGhost/action-deploy-theme@400932e207443c76d4486635228cdfbca89b8047
   uses: TryGhost/action-deploy-theme@v1.6.3
