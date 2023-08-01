@@ -1,0 +1,14 @@
+301:
+  ^\/collections\/?([a-zA-Z0-9-]+)?\/$: /
+  ^\/products\/?([a-zA-Z0-9-]+)?\/$: /
+  ^\/pages\/?([a-zA-Z0-9-]+)?\/$: /
+  ^\/comments\/?([a-zA-Z0-9-]+)?\/$: /
+  ^\/blogs/dog-toys-accessories\/?([a-zA-Z0-9-]+)?\/$: /
+  ^\/blogs/dog-dad-playbook\/?([a-zA-Z0-9-]+)?\/$: /
+  ^\/blogs/dog-food-and-diet\/?([a-zA-Z0-9-]+)?\/$: /
+  /blogs/dog-dad-playbook/top-5-ways-to-be-a-better-dog-dad-today/: /5-ways-to-be-a-better-dog-dad/
+  /blogs/dog-dad-playbook/sourcing-the-best-dog-products-from-the-internet-a-dog-owners-guide/: /how-to-find-the-best-dog-products-online/
+  /tag/knowledge/: /tag/dog-dad-101/
+  /tag/sunday-scoop/: /tag/newsletter/
+  /tag/pawsome-picks/: /tag/pawsome-products/
+  /tag/training/: /tag/dog-training/
